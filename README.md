@@ -2,12 +2,19 @@
 
 ## 👨‍💻 About Me
 👩‍🎓 I'm a passionate and detail-oriented Software Engineer with a strong interest in building scalable, secure, and high-performance software solutions.
+
 💻 Skilled in **Java, Spring Boot, Hibernate, JPA, RESTful APIs, MySQL, and PostgreSQL,** with hands-on experience in backend development and database design.
+
 🧠 Strong understanding of **Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design Patterns, and Software Development Life Cycle (SDLC)**.
+
 🌐 Familiar with frontend technologies including **HTML, CSS, JavaScript, Bootstrap, and Responsive Web Design** for developing user-friendly web applications.
+
 🤝 Open to collaborating on **Backend Development, Java Applications, REST API Development, Open Source Projects, and Software Engineering initiatives.**
+
 📈 Passionate about solving complex problems, optimizing application performance, and creating maintainable, scalable, and reliable software systems.
+
 💬 Ask me about **Java, Spring Boot, Hibernate, JPA, REST APIs, MySQL, PostgreSQL, OOP, DSA, Git, GitHub, HTML, CSS, JavaScript, and Software Development Best Practices.**
+
 🚀 Currently exploring **System Design, Machine Learning, Software Architecture, and Scalable Application Development.**
 
 
@@ -50,6 +57,6 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=premkrrajbhar&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=premkrrajbhar&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=premkrrajbhar&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganaparoshini&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ganaparoshini&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ganaparoshini&theme=default&hide_border=false)
